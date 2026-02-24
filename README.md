@@ -5,4 +5,4 @@
 O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões. A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
 Link do projeto:
-[notebooklm do google](https://notebooklm.google.com/notebook/e3a764b8-a211-4804-89cc-0e0f00de998c)
+[DIO Manual do Investidor Iniciante](https://notebooklm.google.com/notebook/e3a764b8-a211-4804-89cc-0e0f00de998c)
